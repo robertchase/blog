@@ -1,0 +1,5 @@
+baseURL = "http://blog.tympanum.org/"
+languageCode = "en-us"
+title = "bob chase"
+theme = "tale"
+author = "Fred"
