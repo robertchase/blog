@@ -30,7 +30,7 @@ If we match up this set of Zs:
 
 `Z  Z  Z  Z`
 
-it turns out that not of of the Zs have a match.
+it turns out that not all  of the Zs have a match.
 We call this condition `greater than`.
 Our collection of Zs is `greater than` “three”.
 
