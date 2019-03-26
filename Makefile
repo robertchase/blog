@@ -30,4 +30,5 @@ clean:
 	rm -rf $(BLOG_DIR)/public
 
 build:
+	git submodule update
 	docker build --rm -t $(DOCKER_IMAGE) .
