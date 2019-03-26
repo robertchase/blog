@@ -1,4 +1,4 @@
-.PHONY: bash build clean public serve serve-public
+.PHONY: bash build clean init public serve serve-public
 
 DOCKER_IMAGE := blog
 BLOG_BASE := $(HOME)/git/blog
@@ -30,6 +30,7 @@ clean:
 	rm -rf $(BLOG_DIR)/public
 
 build:
-	-git rm --cached blog/themes/tale
-	-git submodule add https://github.com/EmielH/tale-hugo.git blog/themes/tale
 	docker build --rm -t $(DOCKER_IMAGE) .
+
+init:
+	git clone https://github.com/EmielH/tale-hugo.git blog/themes/tale
