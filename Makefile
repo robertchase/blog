@@ -1,4 +1,4 @@
-.PHONY: bash build clean init public serve serve-public
+.PHONY: bash clean init public serve serve-public
 
 DOCKER_IMAGE := blog
 BLOG_BASE := $(HOME)/git/blog
@@ -23,14 +23,12 @@ public: clean
 push: public
 	$(DOCKER_AWS) aws s3 sync --acl public-read public/ s3://$(BLOG_BUCKET)/
 
-bash: build
+bash:
 	$(DOCKER_AWS) /bin/bash
 
 clean:
 	rm -rf $(BLOG_DIR)/public
 
-build:
-	docker build --rm -t $(DOCKER_IMAGE) .
-
 init:
-	git clone https://github.com/EmielH/tale-hugo.git blog/themes/tale
+	-git clone https://github.com/EmielH/tale-hugo.git blog/themes/tale
+	docker build --rm -t $(DOCKER_IMAGE) .
