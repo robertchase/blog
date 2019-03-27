@@ -1,9 +1,10 @@
 .PHONY: bash clean init public serve serve-public
 
-DOCKER_IMAGE := blog
-BLOG_BASE := $(HOME)/git/blog
-BLOG_DIR := blog
 BLOG_BUCKET := blog.tympanum.org
+BLOG_BASE := $(HOME)/git/blog
+
+DOCKER_IMAGE := blog
+BLOG_DIR := blog
 PORT := 1313
 
 BASE_DOCKER := docker run -it --rm -v=$(BLOG_BASE):/opt/blog -w /opt/blog/$(BLOG_DIR) -p $(PORT):$(PORT) --name blog
@@ -14,14 +15,14 @@ DOCKER_AWS := $(BASE_DOCKER) -v=$(HOME)/.aws:/root/.aws $(DOCKER_IMAGE)
 serve:
 	$(DOCKER_SERVE) --buildDrafts
 
+push: public
+	$(DOCKER_AWS) aws s3 sync --acl public-read public/ s3://$(BLOG_BUCKET)/
+
 serve-public: clean
 	$(DOCKER_SERVE)
 
 public: clean
 	$(DOCKER) hugo
-
-push: public
-	$(DOCKER_AWS) aws s3 sync --acl public-read public/ s3://$(BLOG_BUCKET)/
 
 bash:
 	$(DOCKER_AWS) /bin/bash
