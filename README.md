@@ -10,6 +10,9 @@ Clone the theme and build a docker image.
 
 ### serve everything locally
 
+Serves the site at `localhost:1313`.
+Mounts the repo in the docker images so that content changes are immediately evaluated and re-rendered.
+
 `make` or `make serve`
 
 ### serve non-draft (public) locally
