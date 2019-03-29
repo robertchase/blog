@@ -6,7 +6,7 @@ draft: true
 
 Wisdom seems hard to find these days.
 We probably aren't any more foolish than we've ever been,
-but our ability, and our propensity, to indiscriminately broadcast every half-baked idea
+but our ability, and our tendency, to randomly broadcast every half-baked idea
 makes us seem, on the whole, rather unwise.
 
 What makes for wisdom?
@@ -33,11 +33,14 @@ Humble reflection honestly evaluates the past:
 * Why did it matter to me that I was right?
 * Was my initial guess very close?
 * Do I really understand what she was saying?
-* Was I pretending that I knew about William the Conqueror?
+* Was I pretending that I knew more about something than I really do?
 
 If you're full of yourself, you won't ask these questions, or you won't be able to answer them honestly.
 
 # knowledge
+
+Knowledge is not a bunch of facts, but the structure and relationship of those facts.
+
 
 # experience
 
