@@ -3,7 +3,7 @@
 BLOG_BUCKET := blog.tympanum.org
 BLOG_BASE := $(HOME)/git/blog
 
-DOCKER_IMAGE := blog
+DOCKER_IMAGE := myhugo
 BLOG_DIR := blog
 PORT := 1313
 

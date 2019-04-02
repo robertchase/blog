@@ -11,38 +11,38 @@ Perhaps our brains
 are wired to group and collect things in a way that naturally leads to mathematical thinking.
 The *matching game* is a kind of *number origin story* that makes this assumption.
 
-### the matching game
+### the game
 
-In the matching game, we start with a named collection of items.
-Take, for instance, this collection of Xs which we have named “three”:
+The matching game starts with a named collection of items.
+Take, for instance, this collection of Xs which has the name “three”:
 
 `X  X  X`
 
-This game involves matching up other sets of items, item by item, with “three” and observing the results.
-If we match up this set of Ys:
+The game involves matching up other sets of items, item by item, with “three” and observing the results.
+Matching with this set of Ys:
 
 `Y  Y`
 
-it turns out that not all of the Xs have a match. We call this condition `less than`.
-Our collection of Ys is `less than` “three”.
+reveals that not all of the Xs have a match. This condition is called `less than`.
+This collection of Ys is `less than` “three”.
 
-If we match up this set of Zs:
+Matching with this set of Zs:
 
 `Z  Z  Z  Z`
 
-it turns out that not all  of the Zs have a match.
-We call this condition `greater than`.
-Our collection of Zs is `greater than` “three”.
+reveals that not all of the Zs have a match.
+This condition is called `greater than`.
+This collection of Zs is `greater than` “three”.
 
-If we match up this set of Ws:
+Matching with this set of Ws:
 
 `W  W  W`
 
-it turns out that each item from both sets has a match.
-When this condition happens, we can call our matching set by the same name as our original set.
-Our collection of Ws is “three”.
+reveals that each item from both sets has a match.
+This condition means that the matching set has the same name as our original set.
+This collection of Ws is “three”.
 
-After playing the matching game for a while with differently named sets, like “one”, “two”, etc, it might become obvious that there are some rules about the relationships between sets.
+After playing the matching game for a while with differently named sets, like “one”, “two”, etc, it becomes obvious that there are some rules about the relationships between sets.
 For instance:
 
 * take an item away from “three” matches a “two”
@@ -50,3 +50,16 @@ For instance:
 
 Basic math follows.
 This shows how math can be understood a as shortcut for the matching game, in the same way that multiplication is a shortcut for addition.
+
+### what this means
+
+This might be how numbers really work.
+But I don't know.
+
+What I know is that this explains one way that numbers *might* be a natural outcome of
+normal things that our brains do, like
+recognizing patterns,
+putting things in groups
+and comparing things.
+
+<center><small>*updated 2019-04-02*</small></center>

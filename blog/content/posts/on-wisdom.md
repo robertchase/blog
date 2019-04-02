@@ -20,14 +20,14 @@ I suggesting that wisdom is exact or mathematical*.
 ### translation:
 
 Wisdom is a function of
-*knowledge* and *experience* and *judgement*
+*knowledge* and *experience* and *judgment*
 regularly evaluated in *humble* *reflection*.
 
 # humility and reflection
 
 One definition of wisdom is *the fruit of a considered life*.
 This definition is vague, but captures the key idea that wisdom requires *consideration* or *reflection*.
-Relection, if it leads to wisdom, cannot be full of self-defense, but has to be founded in humility.
+Reflection, if it leads to wisdom, cannot be full of self-defense, but has to be founded in humility.
 Humble reflection honestly evaluates the past:
 
 * Why did it matter to me that I was right?
@@ -40,8 +40,37 @@ If you're full of yourself, you won't ask these questions, or you won't be able 
 # knowledge
 
 Knowledge is not a bunch of facts, but the structure and relationship of those facts.
+When a new piece of information comes along,
+it is understood in light of a lot of other things that have already been encountered.
+
+For instance,
+when I come across a species of bird that I've never seen before,
+I immediately realize that I'm looking at a bird,
+but I also realize that something is different about this particular bird.
+I don't have to start the learning process from scratch just because
+this bird isn't exactly like some other bird I've encountered.
+
+What's happening here?
+Somehow I've used all of my *bird knowledge* to recognize a new kind of bird.
+I doubt that my brain compared this new bird to every other fact in my head until it decided it was looking at a bird.
+It is much more likely that all of that bird knowledge was already arranged in some convenient way
+that made the comparison simple.
+
+What I already know about birds helps me to understand this new species,
+but what I know about birds doesn't change very much.
+
+On the other hand, if I learned that birds don't really fly,
+but instead have large invisible bodies that support their visble parts, creating the illusion of flight,
+what I know about birds would change tremendously.
+Such a radical discovery would likely cause a massive restructuring of my collection of facts about birds.
+
+Knowledge is a framework for being in the world.
+Knowledge is a framework for orienting in the world.
 
 
 # experience
 
-# judgement
+Experience improves the quality of our knowledge.
+
+
+# judgment
