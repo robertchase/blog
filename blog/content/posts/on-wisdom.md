@@ -39,6 +39,8 @@ If you're full of yourself, you won't ask these questions, or you won't be able 
 
 # knowledge
 
+Knowledge provides a framework for being in the world.
+
 Knowledge is not a bunch of facts, but the structure and relationship of those facts.
 When a new piece of information comes along,
 it is understood in light of a lot of other things that have already been encountered.
@@ -64,13 +66,25 @@ but instead have large invisible bodies that support their visble parts, creatin
 what I know about birds would change tremendously.
 Such a radical discovery would likely cause a massive restructuring of my collection of facts about birds.
 
-Knowledge is a framework for being in the world.
-Knowledge is a framework for orienting in the world.
-
-
 # experience
 
 Experience improves the quality of our knowledge.
 
+Suppose I lived on a remote island where the only birds were penguins or ostriches.
+When I traveled and encountered my first sparrow, I might not even think it was a bird.
+After my initial surprise at being informed that a sparrow is also a bird,
+my knowledge of birds would become more robust.
+As I encountered new kinds of flying birds, I would easily be able to classify them as birds,
+even if I couldn't tell you exactly what kind of birds I was seeing.
+
 
 # judgment
+
+Judgment guides our choices between alternatives.
+
+A bad choice shows bad judgement.
+I know a choice is bad when I experience the unwanted consequences of that choice.
+Wisdom acknowledges the mistake, and prepares for a better choice&mdash;a better judgement&mdash;next time.
+
+As long as experience informs our knowledge,
+our judegments will improve. This is wisdom in action.
