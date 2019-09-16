@@ -49,7 +49,7 @@ For instance:
 * combine a “two” and a “three” and the result matches a “five”
 
 Basic math follows.
-This shows how math can be understood a as shortcut for the matching game, in the same way that multiplication is a shortcut for addition.
+This shows how math can be understood as a shortcut for the matching game, in the same way that multiplication is a shortcut for addition.
 
 ### what this means
 
